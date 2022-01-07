@@ -25,7 +25,7 @@ BBScan能够在1分钟内
 
 ### Install ###
 
-	pip2.7 install -r requirements.txt
+	pip3 install -r requirements.txt
 
 ### 开始使用
 
