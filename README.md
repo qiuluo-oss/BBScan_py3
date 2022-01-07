@@ -2,7 +2,6 @@
 
 This repository is forked from [lijiejie/BBScan 1.5](https://github.com/lijiejie/BBScan). I migrated the former python code to `python3`. The following description is the origin author's `readme`.
 
-# BBScan 1.5 #
 
 **BBScan** 是一个高并发漏洞扫描工具，可用于
 
