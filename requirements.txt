@@ -1,0 +1,9 @@
+BeautifulSoup4>=4.3.2
+ipaddress~=1.0.23
+pymongo~=4.0.1
+requests~=2.26.0
+urllib3~=1.25.8
+gevent~=21.1.2
+grequests
+argparse~=1.4.0
+six~=1.15.0
